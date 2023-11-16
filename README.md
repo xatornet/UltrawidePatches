@@ -18,4 +18,5 @@ See the [`troubleshooting`](https://github.com/PhantomGamers/SUWSF#troubleshooti
 [SUWSF](https://github.com/PhantomGamers/SUWSF) by [PhantomGamers](https://github.com/PhantomGamers)<br />
 [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) by [ThirteenAG](https://github.com/ThirteenAG)<br />
 [Uklosk](https://github.com/uklosk)<br />
+[RoseTheFlower](https://github.com/RoseTheFlower/UltrawideIndex)<br />
 [Lyall](https://github.com/Lyall/UltrawidePatches)
